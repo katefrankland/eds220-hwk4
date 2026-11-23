@@ -38,8 +38,12 @@ For this assignment, Landsat 8 satellite data and Perimeter data for the Palisad
 
 ## References 
 
-- County of Los Angeles. (2025). Palisades and Eaton dissolved fire perimeters. ArcGIS Hub. [ArcGIS link]("https://hub.arcgis.com/maps/")
+- County of Los Angeles. “Palisades and Eaton Dissolved Fire Perimeters.” ArcGIS Hub, 2025, https://hub.arcgis.com/maps/.
 
-- NASA. (2025, December 8). Why is that forest red and that cloud blue? How to interpret a false-color satellite image. https://science.nasa.gov/earth/earth-observatory/how-to-interpret-a-false-color-satellite-image/
+- Fry, Hannah, et al. “Los Angeles Has Never Seen This Level of Destruction: ‘Everything Is Burned Down.’” Los Angeles Times, 10 Jan. 2025, https://www.latimes.com/california/story/2025-01-10/the-destruction-in-pacific-palisades-is-at-a-level-los-angeles-has-never-seen-everything-is-burned-down.
 
-- U.S. Geological Survey. (2025). Landsat Collection 2 Level-2. Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
+- NASA. “Why Is That Forest Red and That Cloud Blue? How to Interpret a False-Color Satellite Image.” NASA Earth Observatory, 8 Dec. 2025, https://science.nasa.gov/earth/earth-observatory/how-to-interpret-a-false-color-satellite-image/.
+
+- U.S. Geological Survey. “Landsat Collection 2 Level-2.” Microsoft Planetary Computer, 2025, https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2.
+
+
