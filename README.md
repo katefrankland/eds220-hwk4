@@ -1,6 +1,10 @@
 
 # Homework 4 - Visualizing Fire Scars from the Eaton and Palisades Fires 
 
+![Palisades Fire Aerial Image](https://ca-times.brightspotcdn.com/dims4/default/47f6d3e/2147483647/strip/true/crop/6000x4000+0+0/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2F51%2F8fbb40af428eacb8328513e7cf7a%2F1490019-me-0109-palisades-aerials-rcg-2593-enhanced-nrb.jpg)
+Photo by Robert Gauthier, Los Angeles Times.
+
+
 ## About 
 The purpose of this notebook is to visualize the Eaton and Palisades fires that took place in Los Angeles County in 2025. False color imagery is used to overlay the two fire perimeters and see where burn scars are present. This is important because infrared bands can help distinguish burned areas better than true color imagery.
 
@@ -33,7 +37,6 @@ For this assignment, Landsat 8 satellite data and Perimeter data for the Palisad
 **Palisades and Eaton Fire Perimeter Data** is sourced from ArcGIS, providing fire boundary information. The files are stored in 'data/eaton_data/' and 'data/palisades_data'.
 
 ## References 
-# References
 
 - County of Los Angeles. (2025). Palisades and Eaton dissolved fire perimeters. ArcGIS Hub. [ArcGIS link]("https://hub.arcgis.com/maps/")
 
